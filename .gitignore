@@ -2,5 +2,5 @@
 .project
 .pydevproject
 .DS_Store
-.settings
+/.settings
 /__pycache___
