@@ -1,2 +1,6 @@
 *.pyc
-/__pycache__
+*.project
+*.pydevproject
+*.DS_Store
+/.settings
+/__pycache___
