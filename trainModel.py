@@ -108,7 +108,7 @@ print(prediction)
 # print(test_predict)
 
 for i,k in zip(prediction[0],prediction[1]):
-  print(i,k)
+    print(i,k)
 
 len(small_eval_dataset['labels'])
 
